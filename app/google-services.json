@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576619876766",
+    "firebase_url": "https://share-ae2e3.firebaseio.com",
+    "project_id": "share-ae2e3",
+    "storage_bucket": "share-ae2e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576619876766:android:6c9e3fec0351df42ee468f",
+        "android_client_info": {
+          "package_name": "edu.neu.madcourse.share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576619876766-0vl9o27db7424g383mstlaok5up8s7ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.neu.madcourse.share",
+            "certificate_hash": "7d6caccd3cdfce67a171d5ed9cf46c76cbb3f496"
+          }
+        },
+        {
+          "client_id": "576619876766-v1nva3n0cg1oqnnjqm5f1tu6bm4kjbss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0B_nsUKhmv9DlLg4jDHDLlgsXnPm5sOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576619876766-v1nva3n0cg1oqnnjqm5f1tu6bm4kjbss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
